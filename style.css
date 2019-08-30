@@ -1,6 +1,11 @@
 p {
-	background-color: purple;
+	background-color: blue;
 } 
 body {
 	background-color: purple;
+}
+
+img {
+	height: 25%; 
+	width: 30%;
 }
